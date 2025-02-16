@@ -36,7 +36,8 @@ header {
 }
 .img-logo {
 width: 580px;
-  margin:130px 12px 0 53px}
+margin:130px 12px 0 53px}
+
 section {
   display: inline-block;
   margin-left: 86px;
@@ -57,13 +58,12 @@ p {
   text-align: justify;
 }
 .more{
-    color: #6FBF44;
+  color: #6FBF44;
 font-size: 18px;
 font-weight: 500;
 line-height: 27px;
 letter-spacing: 1px;
 text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
+
 cursor: pointer;
 }
